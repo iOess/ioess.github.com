@@ -15,8 +15,3 @@ Hi!
 ## Welcome
 
 * Check out my [resume](http://juliannegoyena.com/resume.pdf)
-
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
