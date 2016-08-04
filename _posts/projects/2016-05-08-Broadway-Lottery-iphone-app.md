@@ -18,3 +18,5 @@ Download the app for free in the <a href="https://itunes.apple.com/en/app/broadw
 •	User information is saved safely on the keychain <br>
 •	Lottery forms are automatically filled out when user visits the lottery sites <br>
 </p>
+
+My family has been watching musicals together for as long as I can remember. But it wasn't until I moved to NYC that I had the privilege to watch a Broadway production. And my first show? Watching my beautiful and talented niece performing in the King and I at Lincoln Center Theater! I can't get enough of Broadway and watched a dozen shows in my first 6 months. Lotteries definitely help keep Broadway affordable. I made the Broadway Lottery app because it was something I wanted to use myself. I hope other theater fans find it useful too!
