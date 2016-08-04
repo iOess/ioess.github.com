@@ -7,13 +7,13 @@ search_omit: true
 
 
 <p>
-After graduating from college, I was fortunate to have been able to travel and live abroad. I survived the -45 degree C winter in Mongolia. And I resided in both 4-season and tropical parts of Vietnam. In Europe, I lived in Bavarian Germany, and the emerald isle of Ireland, which is like a second home to me. And I visited several countries in between. Now that I'm back in the United States, New York City has proven to be just as exciting a place as any!</p>
+After graduating from college, I was fortunate to have been able to travel and live and work abroad. I survived the -45 degree winter in Mongolia. I resided in both 4-season and tropical parts of Vietnam. In Europe, I frequented the festivals of Bavarian Germany. My favorite home was the welcoming emerald isle of Ireland. I also visited several countries in between. Now that I'm back in the United States, New York City has proven to be just as exciting!</p>
 <br><br>
-Here are just a couple of pictures I had on my computer. I'll put up more of my favorites when I fix my media HDD.
+Below are a couple of pictures from my travels. I'll post more when I get my media HDD fixed!
 <br><br>
 <img align="center" src="/images/travel_fishwatermark.jpg" height="100%" width="100%" alt="Plitvice Lake in Croatia"/>
 <p>
-Plitvice lake in Croatia. The water is so pristine and blue that it looks like I went snorkeling. I'm just peering down at the lake in front it me.
+Plitvice lake in Croatia. The water is so pristine and blue that it looks like I went snorkeling. I'm really just peering down at the lake in front of me.
 </p>
 <br><br>
 <img align="center" src="/images/travel_skullwatermark.jpg" height="100%" width="100%" alt=""/>
