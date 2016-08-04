@@ -5,7 +5,7 @@ excerpt: "An archive of blog posts sorted by date."
 search_omit: true
 ---
 <center>
-<img align="center" src="quote.jpeg" height="100%" width="100%" alt=""/>
+<img align="center" src="/images/quote.jpeg" height="100%" width="100%" alt=""/>
 
 <ul class="post-list">
 {% for post in site.categories.blog %} 
