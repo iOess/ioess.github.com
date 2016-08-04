@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Blog
+title: 
 excerpt: "An archive of blog posts sorted by date."
 search_omit: true
 ---
 <center>
-<img align="center" src="/images/quote.jpeg" height="100%" width="100%" alt=""/>
+<img align="center" src="/images/quote.jpeg" height="50%" width="50%" alt=""/>
 
 <ul class="post-list">
 {% for post in site.categories.blog %} 
