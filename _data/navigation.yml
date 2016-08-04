@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: About
-  url: index.html
+  url: /
 
 - title: Projects
   url: /projects/

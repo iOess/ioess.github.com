@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: I love building things
 excerpt: "An archive of projects sorted by date."
 search_omit: true
 ---
