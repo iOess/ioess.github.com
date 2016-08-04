@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Override Author Byline Test Post"
 excerpt: "An article to test overriding the default site author."
 categories: travel
