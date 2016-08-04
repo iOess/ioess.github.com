@@ -4,6 +4,8 @@ title: Blog
 excerpt: "An archive of blog posts sorted by date."
 search_omit: true
 ---
+<center>
+<img src="quote.jpeg">
 
 <ul class="post-list">
 {% for post in site.categories.blog %} 
