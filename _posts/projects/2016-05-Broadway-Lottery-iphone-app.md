@@ -2,7 +2,7 @@
 layout: post
 title: "Broadway Lottery"
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
-categories: articles
+categories: projects
 tags: [broadway, lottery, video]
 comments: true
 share: true
