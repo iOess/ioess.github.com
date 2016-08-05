@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Viet Celts Game"
-excerpt: "An pong app dedicated to my Gaelic football team back in Hanoi"
+excerpt: "A pong app dedicated to my Gaelic football team back in Hanoi"
 categories: projects
 tags: [Viet Celts, gaelic football, game, iphone, app, video]
 comments: true

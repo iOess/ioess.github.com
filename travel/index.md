@@ -7,7 +7,7 @@ search_omit: true
 
 
 <p>
-After graduating from college, I was fortunate to have been able to work and travel abroad. I survived the -45 degree winter in Mongolia. I resided in both 4-season and tropical parts of Vietnam. In Europe, I frequented the festivals of Bavarian Germany. My favorite of all was the welcoming emerald isle of Ireland, my second home. I also visited several countries in between. Now that I'm back in the United States, New York City has proven to be just as exciting!</p>
+After graduating from college, I was fortunate to have been able to work and live abroad. I survived the -45 degree winter in Mongolia. I resided in both 4-season and tropical parts of Vietnam. I frequented the festivals of Bavarian Germany. My favorite of all was the welcoming emerald isle of Ireland, my second home. I also visited several countries in between. Now that I'm back in the United States, New York City has proven to be just as exciting!</p>
 <br><br>
 Below are a couple of pictures from my travels. (I'll post more when I get my media HDD fixed.)
 <br><br>
